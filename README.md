@@ -139,7 +139,7 @@ SMTP_PASS=your_app_password
 
 Pari Kanchan
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Parikanchan
 
 ## License
 
